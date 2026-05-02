@@ -5,38 +5,38 @@ menutitle: CV
 ---
 
 
-You can download my complete CV <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>here</u></span></a>.
+You can download my complete CV <a href="" target="_blank"><span style="color:#800020"><u>here</u></span></a>.
 
 ## Employment
-__Academia Sinica__\
-&nbsp;&nbsp;`2025-`
-Assistant Research Fellow <br> <br>
-
-__University of Nottingham__\
-&nbsp;&nbsp;`2024-2025`
-Postdoctoral Research Fellow
+__National Chengchi University__\
+&nbsp;&nbsp;`2026-`
+Assistant Professor <br> <br>
 
 ## Education
-__Duke University__\
-&nbsp;&nbsp;`2024`
- Ph.D., Economics\
-&nbsp;&nbsp;`2021`
- M.A., Economics <br> <br>
+__King's Business School, King's College London__\
+&nbsp;&nbsp;``
+ Ph.D., Marketing\
+&nbsp;&nbsp;``
+ <br> <br>
 
 __National Taiwan University__\
-&nbsp;&nbsp;`2018`
- M.A., Economics\
-&nbsp;&nbsp;`2015`
- B.A., Economics (Major) & Political Science (Minor) <br> <br>
+&nbsp;&nbsp;``
+ M.Sc., International Business\
+&nbsp;&nbsp;``
 
-__University of Mannheim__\
-&nbsp;&nbsp;`2013-2014`
- Exchange Program, Social Science
+__National Taipei University__\
+&nbsp;&nbsp;``
+ B.B.A., Business Administration <br> <br>
+ &nbsp;&nbsp;``
+
+__Kwansei Gakuin University__\
+&nbsp;&nbsp;``
+ Exchange Program, Literature
 
 
 
 <!-- ### Footer
 
-Last updated: April 2022 -->
+Last updated: May 2026 -->
 
 
