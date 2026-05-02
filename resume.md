@@ -18,7 +18,7 @@ Ph.D., Marketing\
  <br> <br>
 
 __National Taiwan University__\
- M.Sc., International Business\
+ M.Sc., International Business
 
 __National Taipei University__\
  B.B.A., Business Administration <br> <br>
