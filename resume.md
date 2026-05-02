@@ -9,7 +9,6 @@ You can download my complete CV <a href="" target="_blank"><span style="color:#8
 
 ## Employment
 __National Chengchi University__\
-&nbsp;&nbsp;`2026-`
  Assistant Professor <br> <br>
 
 ## Education
