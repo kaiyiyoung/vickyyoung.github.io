@@ -14,23 +14,16 @@ Assistant Professor <br> <br>
 
 ## Education
 __King's Business School, King's College London__\
-&nbsp;&nbsp;``
- Ph.D., Marketing\
-&nbsp;&nbsp;``
+Ph.D., Marketing\
  <br> <br>
 
 __National Taiwan University__\
-&nbsp;&nbsp;``
  M.Sc., International Business\
-&nbsp;&nbsp;``
 
 __National Taipei University__\
-&nbsp;&nbsp;``
  B.B.A., Business Administration <br> <br>
- &nbsp;&nbsp;``
 
 __Kwansei Gakuin University__\
-&nbsp;&nbsp;``
  Exchange Program, Literature
 
 
