@@ -4,13 +4,10 @@ menutitle: Home
 menuorder: 1
 ---
 
-**Welcome to my research page.**
+**Welcome to my research website.**
 
-I am an Assistant Research Fellow at the <a href="https://www.econ.sinica.edu.tw/" target="_blank"><span style="color:#012169"><u>Institute of Economics, Academia Sinica (IEAS)</u></span></a>. I was previously a Postdoctoral Research Fellow at University of Nottingham in 2024-2025 and completed a Ph.D. in economics at Duke University in 2024.
+I am an Assistant Professor at the <a href="https://www.nccu.edu.tw/" target="_blank"><span style="color:#800020"><u>Department of Business Administration, National Chengchi University (NCCU)</u></span></a>. I completed a Ph.D. in marketing at King's Business School, King's College London in 2025. My main research fields are **consumer behavior** and **sustainable marketing**, with a focus on psychological demotivating factors in green communication.
 
-My main research fields are **international trade/investments** and **economic development**, with a focus on firm investment and trade participation decisions across space and the resulting welfare impacts. My <a href="https://sungjuwu.github.io/documents/JMP_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>job market paper</u></span></a> investigates the welfare implication of the US-China trade war in Vietnam when foreign-owned manufacturers repatriate their profits.
+**CV:** <a href="" target="_blank"><span style="color:#800020"><u>PDF</u></span></a> 
 
-**CV:** <a href="https://sungjuwu.github.io/documents/CV_sungjuwu.pdf" target="_blank"><span style="color:#012169"><u>PDF</u></span></a> 
-
-**Email:** <a href = "mailto: sjwu@econ.sinica.edu.tw"><span style="color:#012169"><u>sjwu[at]econ.sinica.edu.tw</u></span></a>;
-<a href = "mailto: sjwuecon@gmail.com"><span style="color:#012169"><u>sjwuecon[at]gmail.com</u></span></a>
+**Email:** <a href = "mailto: kyoung@nccu.edu.tw"><span style="color:#800020"><u>kyoung@nccu.edu.tw</u></span></a>
