@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Sung-Ju Wu 吳松儒
+title: Kai-Yi Young 楊凱貽
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Sung-Ju Wu
-  avatar: duke_job_market_square.jpg
-  bio: "Assistant Research Fellow <br> Institute of Economics, <br> Academia Sinica"
-  email: sjwu@econ.sinica.edu.tw #emailaddress
+  name: Kai-Yi Young
+  avatar: 
+  bio: "Assistant Professor <br> Department of Business Administration, <br> National Chengchi University"
+  email: kyoung@nccu.edu.tw #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: SungJuWu #username
-  linkedin: sung-ju-wu-26717115a #username
-  github: Sungjuwu #username
-  orcid: 0009-0000-4399-8825 # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  twitter: 
+  linkedin: kai-yi-vicky-young-1428441b4 #username
+  github: 
+  orcid: 0000-0001-8230-5956 # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Kai-Yi Young #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: Sung-Ju Wu #id
+    scholar: Kai-Yi (Vicky) Young #id
   facebook: #username
   instagram: #username
   bing-verify:
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#012169'
-lowlight-color: '#012169'
+highlight-color: '#800020'
+lowlight-color: '#800020'
 
 # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
@@ -51,7 +51,7 @@ creative-commons:
   cc-by-nc: #yes
 
 # Google Analytics
-google_analytics: G-4FZJCFFL74
+google_analytics: 
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
