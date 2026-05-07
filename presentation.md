@@ -6,7 +6,7 @@ menuorder: 4
 
 Here is a selective list of my conference proceedings and presentations. <br> <br> <br>
 
-# 2026<br>
+# 2026 <br> <br> <br>
 
 Designing effective communication for food waste reduction: The role of perceived gains and losses in volunteer hesitation and platform loyalty<br>
 with Shintaro Okazaki\
