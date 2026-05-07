@@ -7,7 +7,7 @@ menuorder: 4
 Here is a selective list of my conference proceedings and presentations. <br> <br> <br>
 
 # 2026
-
+<br>
 Designing effective communication for food waste reduction: The role of perceived gains and losses in volunteer hesitation and platform loyalty\
 with Shintaro Okazaki\
 **International Conference on Research in Advertising (ICORIA) 2026**\
@@ -15,11 +15,12 @@ Barcelona, Spain<br>
 
 
 # 2025
-
+<br>
 The ineffectiveness of threat in green CSR communication among luxury cruise travelers: Insights from theory of hedonic moral hypocrisy\
 with Shintaro Okazaki and Jörg Henseler\
 **American Marketing Association (AMA) Winter Academic Conference 2025**\
 Arizona, USA<br>
+
 
 Not all peers are the same: A mixed methods segmentation for the peer-to-peer accommodation market\
 with Prokriti Mukherji, Shintaro Okazaki, and Rayan Fawaz\
