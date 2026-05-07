@@ -4,6 +4,8 @@ menuorder: 3
 menutitle: Research
 ---
 
+Please find my past work listed below.
+
 ## Peer-Review Journal Articles
 
 **I know I am ugly, but please listen to my story first: An examination of how storytelling can impact consumers’ valuation of unattractive produce**<br>
