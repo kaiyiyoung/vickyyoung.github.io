@@ -16,7 +16,7 @@ Please find my past work listed below.
     <summary><span style="color:#800020"><u>Abstract</u></span></summary><p>In a world where food insecurity and food waste paradoxically coexist, the rejection of aesthetically imperfect yet edible produce significantly contributes to food waste. This study examines the application of compelling storytelling to alter consumer perceptions and behaviors toward unattractive produce, a perspective largely overlooked in sustainability research. We address this gap by exploring how storytelling can mitigate cognitive biases against such produce, thereby enhancing consumer acceptance through improved perceived taste. In Study 1, we examine the effect of unattractive produce on produce valuation and the mediation of perceived taste. In Study 2, we investigate the moderating role of storytelling in enhancing consumers' perceived taste of unattractive food. Through two experimental studies, we confirm that combining storytelling with marketing tactics, such as coupons, significantly increases consumers' consumption of unattractive produce. We recommend retailers utilize storytelling in marketing unattractive produce to optimize marketing effectiveness and promote sustainable food consumption. Our findings advance storytelling, visual marketing, and unattractive produce literature and offer practical insights for reducing food waste, contributing to sustainability efforts and social welfare. By employing a storytelling strategy, we support social good by encouraging the consumption of “ugly” produce.</p>
 </details> <br>
 
-<b> **The influencer-entrepreneurship journey: A model of staged progression** </b>
+<b> The influencer-entrepreneurship journey: A model of staged progression </b>
 <p>with Zixuan Mia Cheng and Anouk de Regt </p>
 <p><em><strong>Psychology & Marketing</strong></em>, Volume 41, Issue 11, November (2024) <br>
     <a href="https://doi.org/10.1002/mar.22084" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
@@ -26,7 +26,7 @@ Please find my past work listed below.
 
 <h2>Book Chapters</h2>
 
-<b> **The psychological hindrance of threat appeals in green CSR communication** </b>
+<b> The psychological hindrance of threat appeals in green CSR communication </b>
 <p>with Shintaro Okazaki and Jörg Henseler</p>
 <p>In C. Boutsouki, L. Hatzithomas, A. Panopoulos, and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XV</strong></em> (pp. 247-257), European Advertising Academy, January (2026) <br>
     <a href="https://doi.org/10.1007/978-3-658-49114-7_17" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
@@ -34,7 +34,7 @@ Please find my past work listed below.
     <summary><span style="color:#800020"><u>Abstract</u></span></summary><p>This study investigates the effectiveness of threat versus efficacy appeals in green CSR communication using protection motivation theory. Findings from an experimental design reveal that efficacy appeals positively influence pro-environmental attitudes, while threat appeals backfire through perceived sustainability hypocrisy. Results highlight psychological hindrances to threat-based messaging, offering insights for sustainable communication strategies in business contexts.</p>
 </details> <br>
 
-<b> **The power of threat and efficacy in green communication: Is threat still effective?** </b>
+<b> The power of threat and efficacy in green communication: Is threat still effective? </b>
 <p>with Shintaro Okazaki and Fatima Wang</p>
 <p>In A. Vignolles and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XIV</strong></em> (pp. 255-264), European Advertising Academy, August (2024) <br>
     <a href="https://doi.org/10.1007/978-3-658-44713-7_20" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
