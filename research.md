@@ -18,7 +18,7 @@ Please find my past work listed below.
 </details>
 <br>
 
-<p><strong>The influencer-entrepreneurship journey: A model of staged progression<strong></p>
+**The influencer-entrepreneurship journey: A model of staged progression**
 <p>with Zixuan Mia Cheng and Anouk de Regt </p>
 <p><em><strong>Psychology & Marketing</strong></em>, Volume 41, Issue 11, November (2024)</p>
     <a href="https://doi.org/10.1002/mar.22084" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
@@ -30,7 +30,7 @@ Please find my past work listed below.
 
 <h2>Book Chapters</h2>
 
-<p><strong>The psychological hindrance of threat appeals in green CSR communication**<strong></p>
+**The psychological hindrance of threat appeals in green CSR communication**
 <p>with Shintaro Okazaki and Jörg Henseler</p>
 <p>In C. Boutsouki, L. Hatzithomas, A. Panopoulos, and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XV</strong></em> (pp. 247-257), European Advertising Academy, January (2026)</p>
     <a href="https://doi.org/10.1007/978-3-658-49114-7_17" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
@@ -40,7 +40,7 @@ Please find my past work listed below.
 </details>
 <br>
 
-<p><strong>The power of threat and efficacy in green communication: Is threat still effective?**<strong></p>
+**The power of threat and efficacy in green communication: Is threat still effective?**
 <p>with Shintaro Okazaki and Fatima Wang</p>
 <p>In A. Vignolles and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XIV</strong></em> (pp. 255-264), European Advertising Academy, August (2024)</p>
     <a href="https://doi.org/10.1007/978-3-658-44713-7_20" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
