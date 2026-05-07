@@ -8,7 +8,7 @@ Here is a selective list of my conference proceedings and presentations. <br> <b
 
 # 2026<br>
 
-Designing effective communication for food waste reduction: The role of perceived gains and losses in volunteer hesitation and platform loyalty\
+Designing effective communication for food waste reduction: The role of perceived gains and losses in volunteer hesitation and platform loyalty<br>
 with Shintaro Okazaki\
 **International Conference on Research in Advertising (ICORIA) 2026**\
 Barcelona, Spain<br>
@@ -16,48 +16,48 @@ Barcelona, Spain<br>
 
 # 2025
 
-The ineffectiveness of threat in green CSR communication among luxury cruise travelers: Insights from theory of hedonic moral hypocrisy\
+The ineffectiveness of threat in green CSR communication among luxury cruise travelers: Insights from theory of hedonic moral hypocrisy<br>
 with Shintaro Okazaki and Jörg Henseler\
 **American Marketing Association (AMA) Winter Academic Conference 2025**\
 Arizona, USA<br>
 
 
-Not all peers are the same: A mixed methods segmentation for the peer-to-peer accommodation market\
+Not all peers are the same: A mixed methods segmentation for the peer-to-peer accommodation market<br>
 with Prokriti Mukherji, Shintaro Okazaki, and Rayan Fawaz\
 **Academy of Marketing Science (AMS) 2025**\
 Montreal, Canada<br>
 
 # 2024
 
-How can businesses communicate sustainability with customers without backfiring effects? Using threats in sustainable marketing\
+How can businesses communicate sustainability with customers without backfiring effects? Using threats in sustainable marketing<br>
 with Shintaro Okazaki and Jörg Henseler\
 **Conference on Sustainable Operation and Development, International Conference and Annual Meeting of the Innovation and Invention Education Society of Taiwan 2024**\
 Outstanding Paper Award\
 Taichung, Taiwan<br>
 
-What makes threat ineffective in sustainability communication? The role of psychological reactance and green hypocrisy\
+What makes threat ineffective in sustainability communication? The role of psychological reactance and green hypocrisy<br>
 with Shintaro Okazaki and Jörg Henseler\
 **International Conference on Research in Advertising (ICORIA) 2024**\
 Thessaloniki, Greece<br>
 
-Beyond the surface: Tackling food waste with background stories of ugly produce\
+Beyond the surface: Tackling food waste with background stories of ugly produce<br>
 with Chu-Yen Pai, Luke Ingalls Liska, and Debra Laverie\
 **Society for Marketing Advances (SMA) 2024**\
 Tampa, USA<br>
 
 # 2023
 
-The power of threat and efficacy in green communication: Is threat still effective?\
+The power of threat and efficacy in green communication: Is threat still effective?<br>
 with Shintaro Okazaki and Fatima Wang\
 **International Conference on Research in Advertising (ICORIA) 2023**\
 Bordeaux, France<br>
 
-Conceptualization of advertising context for the age of AI\
+Conceptualization of advertising context for the age of AI<br>
 with Hairong Li and Shintaro Okazaki\
 **International Conference on Research in Advertising (ICORIA) 2023**\
 Bordeaux, France<br>
 
-Ethical education in business school curriculum: Through text-analysis of students’ reflection reports\
+Ethical education in business school curriculum: Through text-analysis of students’ reflection reports<br>
 with Anna Dubiel, Shintaro Okazaki, Alejandra Alonso Tak\
 **Responsible Management Education Research Conference 2023**\
 Lisbon, Portugal<br>
