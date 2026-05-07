@@ -17,6 +17,8 @@ Please find my past work listed below.
     <summary><span style="color:#800020"><u>Abstract</u></span></summary><p>In a world where food insecurity and food waste paradoxically coexist, the rejection of aesthetically imperfect yet edible produce significantly contributes to food waste. This study examines the application of compelling storytelling to alter consumer perceptions and behaviors toward unattractive produce, a perspective largely overlooked in sustainability research. We address this gap by exploring how storytelling can mitigate cognitive biases against such produce, thereby enhancing consumer acceptance through improved perceived taste. In Study 1, we examine the effect of unattractive produce on produce valuation and the mediation of perceived taste. In Study 2, we investigate the moderating role of storytelling in enhancing consumers' perceived taste of unattractive food. Through two experimental studies, we confirm that combining storytelling with marketing tactics, such as coupons, significantly increases consumers' consumption of unattractive produce. We recommend retailers utilize storytelling in marketing unattractive produce to optimize marketing effectiveness and promote sustainable food consumption. Our findings advance storytelling, visual marketing, and unattractive produce literature and offer practical insights for reducing food waste, contributing to sustainability efforts and social welfare. By employing a storytelling strategy, we support social good by encouraging the consumption of “ugly” produce.</p>
 </details> <br>
 
+</>
+
 **The influencer-entrepreneurship journey: A model of staged progression**<br>
 <p>with Zixuan Mia Cheng and Anouk de Regt <br>
 <p><em><strong>Psychology & Marketing</strong></em>, Volume 41, Issue 11, November (2024)</p>
@@ -38,6 +40,8 @@ Please find my past work listed below.
 <details>
     <summary><span style="color:#800020"><u>Abstract</u></span></summary><p>This study investigates the effectiveness of threat versus efficacy appeals in green CSR communication using protection motivation theory. Findings from an experimental design reveal that efficacy appeals positively influence pro-environmental attitudes, while threat appeals backfire through perceived sustainability hypocrisy. Results highlight psychological hindrances to threat-based messaging, offering insights for sustainable communication strategies in business contexts.</p>
 </details> <br>
+
+</>
 
 **The power of threat and efficacy in green communication: Is threat still effective?**<br>
 <p>with Shintaro Okazaki and Fatima Wang<br>
