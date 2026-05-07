@@ -6,7 +6,7 @@ menuorder: 4
 
 Here is a selective list of my conference proceedings and presentations. <br> <br> <br>
 
-# 2026 <br> <br> <br>
+# 2026 <br> <br>
 
 Designing effective communication for food waste reduction: The role of perceived gains and losses in volunteer hesitation and platform loyalty<br>
 with Shintaro Okazaki\
@@ -14,7 +14,7 @@ with Shintaro Okazaki\
 Barcelona, Spain<br>
 
 
-# 2025
+# 2025 <br> <br>
 
 The ineffectiveness of threat in green CSR communication among luxury cruise travelers: Insights from theory of hedonic moral hypocrisy<br>
 with Shintaro Okazaki and Jörg Henseler\
@@ -27,7 +27,7 @@ with Prokriti Mukherji, Shintaro Okazaki, and Rayan Fawaz\
 **Academy of Marketing Science (AMS) 2025**\
 Montreal, Canada<br>
 
-# 2024
+# 2024 <br> <br>
 
 How can businesses communicate sustainability with customers without backfiring effects? Using threats in sustainable marketing<br>
 with Shintaro Okazaki and Jörg Henseler\
@@ -45,7 +45,7 @@ with Chu-Yen Pai, Luke Ingalls Liska, and Debra Laverie\
 **Society for Marketing Advances (SMA) 2024**\
 Tampa, USA<br>
 
-# 2023
+# 2023 <br> <br>
 
 The power of threat and efficacy in green communication: Is threat still effective?<br>
 with Shintaro Okazaki and Fatima Wang\
