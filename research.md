@@ -10,7 +10,7 @@ Please find my past work listed below.
 
 **I know I am ugly, but please listen to my story first: An examination of how storytelling can impact consumers’ valuation of unattractive produce**<br>
 <p>with Chu-Yen Pai, Luke Ingalls Liska, and Debra Laverie </p>
-<p><em><strong>Journal of Consumer Behaviour</strong></em>, Volume 24, Issue 1, January (2025)</p>
+<p><em><strong>Journal of Consumer Behaviour</strong></em>, Volume 24, Issue 1, January (2025)<br>
     <a href="https://doi.org/10.1002/cb.2414" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
 
 <details>
@@ -20,7 +20,7 @@ Please find my past work listed below.
 
 **The influencer-entrepreneurship journey: A model of staged progression**
 <p>with Zixuan Mia Cheng and Anouk de Regt </p>
-<p><em><strong>Psychology & Marketing</strong></em>, Volume 41, Issue 11, November (2024)</p>
+<p><em><strong>Psychology & Marketing</strong></em>, Volume 41, Issue 11, November (2024)<br>
     <a href="https://doi.org/10.1002/mar.22084" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
 
 <details>
@@ -32,7 +32,7 @@ Please find my past work listed below.
 
 **The psychological hindrance of threat appeals in green CSR communication**
 <p>with Shintaro Okazaki and Jörg Henseler</p>
-<p>In C. Boutsouki, L. Hatzithomas, A. Panopoulos, and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XV</strong></em> (pp. 247-257), European Advertising Academy, January (2026)</p>
+<p>In C. Boutsouki, L. Hatzithomas, A. Panopoulos, and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XV</strong></em> (pp. 247-257), European Advertising Academy, January (2026)<br>
     <a href="https://doi.org/10.1007/978-3-658-49114-7_17" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
 
 <details>
@@ -42,7 +42,7 @@ Please find my past work listed below.
 
 **The power of threat and efficacy in green communication: Is threat still effective?**
 <p>with Shintaro Okazaki and Fatima Wang</p>
-<p>In A. Vignolles and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XIV</strong></em> (pp. 255-264), European Advertising Academy, August (2024)</p>
+<p>In A. Vignolles and M. K. J. Waiguny (Eds.), <em><strong>Advances in Advertising Research XIV</strong></em> (pp. 255-264), European Advertising Academy, August (2024)<br>
     <a href="https://doi.org/10.1007/978-3-658-44713-7_20" target="_blank"><span style="color:#800020"><u>Published Version</u></span></a>
 
 <details>
