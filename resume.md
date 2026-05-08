@@ -5,7 +5,7 @@ menutitle: CV
 ---
 
 
-Below is a summary of my professional and educational background:
+Below is a summary of my professional and educational background.
 
 ## Employment
 __National Chengchi University__\
