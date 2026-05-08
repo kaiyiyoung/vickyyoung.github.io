@@ -5,7 +5,7 @@ menutitle: CV
 ---
 
 
-You can download my complete CV <a href="" target="_blank"><span style="color:#800020"><u>here</u></span></a>.
+
 
 ## Employment
 __National Chengchi University__\
